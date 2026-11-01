@@ -21,6 +21,6 @@ We declare that this submission is our own work. We understand all the code subm
 **AI Usage Disclosure:** An AI assistant was used to help format the initial database schema structure and draft the README/Implementation notes. All PL/SQL code was executed, tested, and verified by both group members.
 
 ## Submission Details
-- **Repository Link:** https://github.com/YOUR_GITHUB_USERNAME/plsql-assignment4-28978-29062
+- **Repository Link:** (https://github.com/esengoalkadmud/plsql-assignment4-28978-29062)
 - **PDB Name Created:** AL_PDB_28978
 - **Issues Encountered:** Yes (We encountered unique constraint errors during bulk testing, which we solved using `SAVE EXCEPTIONS` and `SQL%BULK_EXCEPTIONS`).
